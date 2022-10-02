@@ -1,1 +1,1 @@
-static library project directory
+static library project directory 
